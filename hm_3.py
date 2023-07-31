@@ -11,7 +11,7 @@ for i in range(n):
 print(list_1)
 
 
-m = (int(input("Введите число n элементов: ")))
+m = (int(input("Введите число m элементов: ")))
 list_2 = []
 for i in range(m):
     number = int(input("Введите число: "))
